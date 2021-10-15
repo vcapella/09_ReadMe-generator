@@ -5,6 +5,9 @@
   ## Description
   This application generates a README file  with an organized structure. To run this application was necessary to install Inquirer and file system node packages.
   
+  ## Link
+  https://watch.screencastify.com/v/W4pL1evpA9tvnpl3k65i
+  
   ## Table Content
   * [Installation](#Installation)
   * [Usage](#Usage)
